@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hjjacobs
-- 👀 I’m interested in people and technology
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in people, processes and technology
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
